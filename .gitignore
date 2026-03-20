@@ -1,0 +1,30 @@
+# Environments
+venv/
+env/
+.env
+
+# PyCaches
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets and Downloads
+data/
+*.zip
+
+# Checkpoints and logs
+checkpoints/
+runs/
+results/
+inference/
+predictions/
+
+# IDEs
+.vscode/
+.idea/
+
+# Large binaries
+*.pth
+*.pt
+*.pdf
+*.pptx
